@@ -42,7 +42,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="turab45's GitHub Stats" src="https://github-readme-stats.turab45.vercel.app/api?username=turab45&show_icons=true&hide_border=true" />
+  <img align="left" alt="turab45's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=turab45&show_icons=true&hide_border=true" />
 
 </details>
 
