@@ -15,9 +15,19 @@
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-<br />
 
+<br />
 
 ### Languages and Tools:
 
+
+
+
+<br />
+<br />
+
+[youtube]:https://www.youtube.com/channel/UC7EFse41eH85NeuwHigcX0Q?view_as=subscriber
+[twitter]:https://twitter.com/TurabBajeer3
+[linkedin]:https://www.linkedin.com/in/turab-bajeer-347529190/
+[instagram]:https://www.instagram.com/turab.45/
 
