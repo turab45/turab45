@@ -30,10 +30,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#14](https://github.com/codeSTACKr/codeSTACKr/pull/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-2. 🗣 Commented on [#14](https://github.com/codeSTACKr/codeSTACKr/issues/14) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-3. ❌ Closed PR [#7](https://github.com/codeSTACKr/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
-4. 🎉 Merged PR [#6](https://github.com/codeSTACKr/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/codeSTACKr/codeSTACKr)
+1. ❌ Closed PR [#14](https://github.com/turab45/turab45/pull/14) in [turab45/turab45](https://github.com/turab45/turab45)
+2. 🗣 Commented on [#14](https://github.com/turab45/turab45/issues/14) in [turab45/turab45](https://github.com/turab45/turab45)
+3. ❌ Closed PR [#7](https://github.com/turab45/codeSTACKr/pull/7) in [codeSTACKr/codeSTACKr](https://github.com/turab45/turab45)
+4. 🎉 Merged PR [#6](https://github.com/turab45/codeSTACKr/pull/6) in [codeSTACKr/codeSTACKr](https://github.com/turab45/turab45)
 5. 💪 Opened PR [#259](https://github.com/florinpop17/app-ideas/pull/259) in [florinpop17/app-ideas](https://github.com/florinpop17/app-ideas)
 <!--END_SECTION:activity-->
 
