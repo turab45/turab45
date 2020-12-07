@@ -3,7 +3,7 @@
 
 
 - 🔭 I’m currently working on Java projects.
-- 🌱 I’m currently learning JavaScript
+- 🌱 I’m currently learning Web Development
 - 👯 I’m looking to collaborate with other creators
 - ⚡ Fun fact: I love to watch movies and code.
 
