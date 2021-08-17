@@ -35,6 +35,9 @@
 
 </details>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turab45&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
 
 [youtube]:https://www.youtube.com/channel/UC7EFse41eH85NeuwHigcX0Q?view_as=subscriber
 [twitter]:https://twitter.com/TurabBajeer3
