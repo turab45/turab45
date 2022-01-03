@@ -2,8 +2,8 @@
 ## I'm a Student and Developer.
 
 
-- 🔭 I’m currently working on Java projects.
-- 🌱 I’m currently learning Web Development
+- 🔭 I’m currently working on Deep Learning
+- 🌱 I’m currently learning Computer Vision
 - 👯 I’m looking to collaborate with other creators
 - ⚡ Fun fact: I love to watch movies and code.
 
@@ -39,6 +39,6 @@
 
 
 [twitter]:https://twitter.com/TurabBajeer3
-[linkedin]:https://www.linkedin.com/in/turab-bajeer-347529190/
+[linkedin]:https://www.linkedin.com/in/muhammad-turab-347529190/
 [instagram]:https://www.instagram.com/turab.45/
 
