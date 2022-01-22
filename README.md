@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Muhammad Turab</h1>
-<h3 align="center">A passionate Data Scientist, Computer Vision, Deep Learning and Java Developer. Java</h3>
+<h3 align="center">A passionate Data Scientist, Computer Vision, Deep Learning and Java Developer.</h3>
 
 - 🔭 I’m currently working on **Computer Vision**
 
