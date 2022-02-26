@@ -29,12 +29,7 @@
 
 
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="turab45's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=turab45&show_icons=true&hide_border=true" />
-
-</details>
+![Turab's GitHub stats](https://github-readme-stats.vercel.app/api?username=turab45&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turab45&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
