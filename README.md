@@ -28,9 +28,8 @@
 
 
 
-<h3 align="left">My Stats</h3>
 ![Turab's GitHub stats](https://github-readme-stats.vercel.app/api?username=turab45&count_private=true&show_icons=true)
-<h3 align="left">Languages i have worked with</h3>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turab45&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
