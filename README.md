@@ -20,6 +20,8 @@
 <a href="https://instagram.com/turab.45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turab.45" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/turab45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="turab45" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/turabbajeer202" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="turabbajeer202" height="30" width="40" /></a>
+  
+  <a href="https://scholar.google.com.pk/citations?hl=en&user=LD8VtagAAAAJ" target="blank"><img src="https://img.icons8.com/color/48/000000/google-scholar--v3.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
