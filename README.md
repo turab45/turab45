@@ -15,9 +15,9 @@
 <p align="left">
   <a href="https://scholar.google.com.pk/citations?hl=en&user=LD8VtagAAAAJ" target="blank"><img src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" height="40" width="40"/></a>
   <a href="https://www.researchgate.net/profile/Muhammad-Turab-2" target="blank"><img src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/48/000000/external-researchgate-a-social-networking-site-for-scientists-and-researchers-to-share-papers-logo-color-tal-revivo.png" height="40" width="40"/></a>
+  <a href="https://linkedin.com/in/turab-bajeer-347529190" target="blank"><img src="https://img.icons8.com/color/48/000000/linkedin-circled--v1.png" height="40" width="40"/></a>
   
 <a href="https://twitter.com/turaab45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="turaab45" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/turab-bajeer-347529190" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="turab-bajeer-347529190" height="30" width="40" /></a>
 <a href="https://kaggle.com/turabbajeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="turabbajeer" height="30" width="40" /></a>
 <a href="https://fb.com/turab bajeer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="turab bajeer" height="30" width="40" /></a>
 <a href="https://instagram.com/turab.45" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="turab.45" height="30" width="40" /></a>
