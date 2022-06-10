@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Muhammad Turab</h1>
 <h3 align="center">A passionate Data Scientist, Computer Vision, Deep Learning and Java Developer.</h3>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=turab45&label=Profile%20views&color=0e75b6&style=flat" alt="turab45" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turab45" alt="turab45" /></a> </p>
+
 - 🔭 I’m currently working on **Computer Vision**
 
 - 🌱 I’m currently learning **Deep Learning**
