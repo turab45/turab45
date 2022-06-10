@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=turab45&label=Profile%20views&color=0e75b6&style=flat" alt="turab45" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turab45" alt="turab45" /></a> </p>
-
 - 🔭 I’m currently working on **Computer Vision**
 
 - 🌱 I’m currently learning **Deep Learning**
@@ -39,6 +37,8 @@
 <h3 align="left">My Stats: </h3>
 
 ![Turab's GitHub stats](https://github-readme-stats.vercel.app/api?username=turab45&count_private=true&show_icons=true)
+<h3 align="left">Badges:</h3>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turab45" alt="turab45" /></a> </p>
 
 
 
