@@ -37,5 +37,6 @@
 <h3 align="left">My Stats: </h3>
 
 ![Turab's GitHub stats](https://github-readme-stats.vercel.app/api?username=turab45&count_private=true&show_icons=true)
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=turab45)
 <h3 align="left">Badges:</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turab45" alt="turab45" /></a> </p>
