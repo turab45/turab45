@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammad Turab</h1>
 <h3 align="center">A passionate Data Scientist, Computer Vision, Deep Learning and Java Developer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=turab45&label=Profile%200views&color=0e75b6&style=flat" alt="turab45" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=turab45&label=Profile%20views&color=0e75b6&style=flat" alt="turab45" /> </p>
 
 - 🔭 I’m currently working on **Computer Vision**
 
