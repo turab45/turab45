@@ -13,6 +13,9 @@
 
 - ⚡ Fun fact **I love coding**
 
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="https://scholar.google.com.pk/citations?hl=en&user=LD8VtagAAAAJ" target="blank"><img src="https://img.icons8.com/color/48/000000/google-scholar--v3.png" height="40" width="40"/></a>
