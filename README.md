@@ -37,6 +37,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=turab45&&langs_count=8&layout=compact&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
+![turab45's Stats](https://github-readme-stats.vercel.app/api?username=turab45&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
 ![turab45's Streak](https://github-readme-streak-stats.herokuapp.com/?user=turab45&theme=vue-dark&hide_border=true)
 <h3 align="left">My Stats: </h3>
 
