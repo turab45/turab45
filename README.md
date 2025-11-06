@@ -1,20 +1,11 @@
-<h1 align="center">Hi 👋, I'm Muhammad Turab</h1>
-<h3 align="center">Computer Vision Researcher</h3>
+### About me  
+Researcher in Explainable AI for medical imaging. 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=turab45&label=Profile%20views&color=0e75b6&style=flat" alt="turab45" /> </p>
-
-- 🔭 I’m currently working on **Computer Vision**
-
-- 🌱 I’m currently learning **Deep Learning**
-
-- 👨‍💻 All of my projects are available at [https://github.com/turab45](https://github.com/turab45)
-
-- 📫 How to reach me **turabbajeer202@gmail.com**
-
-- ⚡ Fun fact **I love coding**
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### Research & engineering interests  
+- Network Dissection  
+- Explainable AI  
+- Knowledge Graphs
+- LLMs and Agentic AI
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
