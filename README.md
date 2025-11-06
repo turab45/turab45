@@ -14,12 +14,8 @@ Researcher in Explainable AI for medical imaging.
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) 
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/muhammad-turab-347529190/)
-- [Google Scholar]([https://scholar.google.com/citations?user=-OgHByMAAAAJ&hl=en](https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en))
+- [Google Scholar](https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en)
 - [Email](mailto:turabbajeer202@gmail.com)
 
-![turab45's Stats](https://github-readme-stats.vercel.app/api?username=turab45&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
-![turab45's Streak](https://github-readme-streak-stats.herokuapp.com/?user=turab45&theme=vue-dark&hide_border=true)
 ![turab45's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=turab45&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
 
-<h3 align="left">Badges:</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=turab45" alt="turab45" /></a> </p>
