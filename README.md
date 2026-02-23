@@ -2,10 +2,10 @@
 Researcher in Explainable AI for medical imaging. 
 
 ### Research & engineering interests  
-- Network Dissection  
-- Explainable AI  
+- Knowledge Exraction, and Representation
 - Knowledge Graphs
-- LLMs and Agentic AI
+- Network Dissection  
+- LLMs, RAG, and Agentic AI
 
 ### Tech stack  
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white) 
