@@ -12,6 +12,9 @@ Researcher in Explainable AI for medical imaging.
 ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white) 
 ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?logo=c%2B%2B&logoColor=white) 
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?logo=fastapi&logoColor=white) 
+![LangChain](https://img.shields.io/badge/-LangChain-1C3C3C?logo=langchain&logoColor=white) 
+![LangGraph](https://img.shields.io/badge/-LangGraph-1C3C3C?logo=langchain&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white) 
 ### Contact
 - [LinkedIn](https://www.linkedin.com/in/muhammad-turab-347529190/)
 - [Google Scholar](https://scholar.google.com/citations?user=LD8VtagAAAAJ&hl=en)
